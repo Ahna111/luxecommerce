@@ -1,0 +1,5 @@
+{
+  "name": "LuxeCommerce",
+  "description": "A premium e-commerce platform with integrated Stripe and PayPal payments, featuring a modern and minimal design.",
+  "requestFramePermissions": []
+}
